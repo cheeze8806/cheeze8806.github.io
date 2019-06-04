@@ -1,0 +1,33 @@
+html {
+	font-size: 12px;
+	font-family: 'Mandali', sans-serif;
+	background-color: #48C6D9;
+}
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #7FCB29;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: #48C6D9;
+	text-shadow: 3px 3px 2px black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
